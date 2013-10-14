@@ -1,6 +1,5 @@
-n= raw_input()
-n= int(n)
-for number in xrange(1,n):
+n= int(raw_input("test"))
+for number in xrange(1,n+1):
 	print number
 
 
